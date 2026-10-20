@@ -1,0 +1,31 @@
+{
+  "name": "phantom-connect",
+  "displayName": "Phantom Connect",
+  "version": "1.1.0",
+  "description": "Give your agent a wallet. Swap, sign, and manage addresses across Phantom's supported chains — and tap into Phantom's docs for context.",
+  "author": {
+    "name": "Phantom",
+    "email": "developers@phantom.com"
+  },
+  "homepage": "https://github.com/phantom/phantom-connect-cursor-plugin",
+  "repository": "https://github.com/phantom/phantom-connect-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/avatar.png",
+  "keywords": [
+    "phantom",
+    "solana",
+    "wallet",
+    "web3",
+    "connect"
+  ],
+  "tags": [
+    "developer-tools",
+    "web3",
+    "solana",
+    "wallet"
+  ],
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "agents": "./agents/",
+  "mcpServers": ".mcp.json"
+}
